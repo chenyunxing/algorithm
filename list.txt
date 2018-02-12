@@ -1,0 +1,10 @@
+此处为目录介绍
+内部为一些算法试题代码
+1.cpp-----------------大数运算，暂时包含加法与乘法
+2.cpp----------------蓝桥杯  历届试题 格子刷油漆
+first update
+include Large number of operations
+include Blue Bridge Cup previous test grid brush paint
+第一次更新
+包含大数运算
+包含蓝桥杯  历届试题 格子刷油漆
