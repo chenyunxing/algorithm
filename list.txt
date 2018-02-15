@@ -4,6 +4,7 @@
 2.cpp----------------蓝桥杯  历届试题 格子刷油漆
 3.cpp----------------蓝桥杯 历届试题 小朋友排队
 4.cpp----------------蓝桥杯 历届试题 打印十字图
+6.cpp----------------蓝桥杯 历届试题 错误票据
 
 first update
 include Large number of operations
@@ -20,3 +21,7 @@ add Blue Bridge Cup previous questions children line up
 2018-2-14
 add Blue Bridge Cup previous questions print cross diagram
 新增蓝桥杯 历届试题 打印十字图
+
+2018-2-15
+add Blue Bridge Cup previous questions error ticket
+新增蓝桥杯 历届试题 错误票据
