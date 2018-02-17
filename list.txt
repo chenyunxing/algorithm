@@ -30,3 +30,8 @@ add Blue Bridge Cup previous questions error ticket
 2018-2-16
 add Blue Bridge Cup previous questions lucky number
 新增蓝桥杯 历届试题 幸运数
+
+2018-2-18
+add Blue Bridge Cup previous questions Print binary tree
+horizontally(half right)
+新增蓝桥杯 历届试题 横向打印二叉树(半对)
