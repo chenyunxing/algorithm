@@ -3,30 +3,24 @@
 #include <cstdio>
 #include <cmath>
 #include <map> 
+#include <string>
+#include<cstring>
 using namespace std;
-struct a{
-	int di;
-	int pi;
-}; 
-bool cmp(a a1,a b){
-	if(a1.di>b.di){
-		return true;
-	}else{
-		return false;
+int mirrorReflection(int p, int q) {
+    if(p/q==2){
+    	return 2;
+	}else if(p/q==3){
+		return 1;
+	} else{
+		return 0;
 	}
 }
 int main(){
-	int n,k,i,f,sum=0;
-	cin>>n>>k;
-	for(i=1;i<=n;i++){
-		for(f=1;f<=n;f++){
-			if(i%f>=k)
-				sum++;
-		}
-	}
-	cout<<sum<<endl;
-	return 0;
-}
+	string a,b;
+	cin>>a;
+//	cin>>b;
+	cout<<scoreOfParentheses(a);
+} 
 //int main()
 //{
 //	int i,f,n1,n2,p[100005],max;
