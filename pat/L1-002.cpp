@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	int s1[25],s2[25],n,i,f,z=0,lev,yu;
+	int s1[25],s2[25],n,i,f,z=0,lev,yu,a1;
 	cin>>n;
 	char a;
 	cin>>a;
