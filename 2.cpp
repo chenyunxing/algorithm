@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	int i,n;
-	long long int a[1001],b[1001],sum;
+	long long int a[1001],b[1001],sum,bui;
 	cin>>n;
 	a[1]=1;
 	b[1]=1;
