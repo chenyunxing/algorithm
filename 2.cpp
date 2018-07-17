@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//123456789
+//12345678
 int main(){
 	int i,n;
 	long long int a[1001],b[1001],sum;
